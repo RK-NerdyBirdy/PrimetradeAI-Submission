@@ -16,6 +16,9 @@
 
 ---
 
+##  Please checkout the PROJECT OVERVIEW PDF in this repo for more info on technical details
+
+
 ##  Project at a Glance
 
 | Metric | Value |
